@@ -21,3 +21,5 @@ plot(brgh[sel,], col="pink", add=TRUE)
 ## Joining data from external sources
 
 brgh_extra<-read.csv("london-borough-profiles.csv", header = T, sep = ",", stringsAsFactors = F, check.names = T)
+
+EDIT
